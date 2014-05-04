@@ -9,4 +9,4 @@ base on [JazzyViewPager][1]
 ## Other
 email：liucanwen517@gmail.com
 
- [1]: http://android-developers.blogspot.com/2011/03/fragments-for-all.html
+ [1]: https://github.com/jfeinstein10/JazzyViewPager
